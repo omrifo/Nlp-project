@@ -1,4 +1,5 @@
 NLP_project
+
 Natural Language proccessing project focus on hebrew corpus analysis. In my Natural Language Processing (NLP) project, I focused on building a Hebrew text corpus derived from protocols of the Knesset's plenary sessions and committee meetings.
 
 Here are the main steps of the project:
